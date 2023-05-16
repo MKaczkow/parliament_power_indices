@@ -1,2 +1,4 @@
 powerindex
 ipykernel
+matplotlib
+pandas
